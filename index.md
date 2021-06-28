@@ -19,3 +19,7 @@ REFs:
 
 <p>Yuankai's Homepage</p>
 <p>Under construction now.</p>
+
+### Nonlinear dynamical system identification using the sparse regression and separable least squares methods 
+
+![image-20210622151126433](../../210618/Typora_Figs/image-20210622151126433.png)
