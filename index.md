@@ -21,14 +21,10 @@ REFs:
 1.  Alan V. Oppenheim and Thomas A. Baran, 6.341x Discrete-Time Signal Processing, on edX, Summer 2016.
 2.  Alan V. Oppenheim. Discrete-time signal processing. Pearson Education India, 1999.
 
-
-
-<<<<<<< HEAD
 <p>Yuankai's Homepage</p>
 <p>Under construction now.</p>
 
 ### Nonlinear dynamical system identification using the sparse regression and separable least squares methods 
 
-![image-20210622151126433](../../Typora_Figs/image-20210622151126433.png)
-=======
->>>>>>> ee75c1bdac20c8fe715b1554ffe34f7575acc882
+![image-20210615002501050](Typora_Figs/image-20210615002501050.png)
+
