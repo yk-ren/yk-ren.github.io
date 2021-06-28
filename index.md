@@ -1,18 +1,5 @@
-<p>Yuankai's Homepage</p>
-<p>Under construction now.</p>
+Hi, this is Yuankai's Homepage under construction.
 
-<ul>
-  <li> <a href="https://www.zhihu.com/people/AJLoveChina">知乎</a> </li>
-  <li> <a href="http://hejie.nigeerhuo.com">我的博客(已经不更细了,现在在知乎写文章)</a> </li>
-</ul>
+I'm currently a research student @ Institute of Robotics @ SJTU, and my current research focuses on the signal processing, machine learning and their application in system identification and control.
 
-
-<p>Yuankai's Homepage</p>
-<p>Under construction now.</p>
-
-
-Update history:
-
-1. Jun. 23, 2021.
-2. Jun. 26, 2021.
-
+Feel free to contact me via researchgate.
