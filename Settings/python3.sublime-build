@@ -1,0 +1,6 @@
+{
+    "cmd": ["H:/Anaconda3/python.exe", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.pythona",
+    "shell": "true"
+}
